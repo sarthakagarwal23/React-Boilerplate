@@ -6,7 +6,7 @@ class App extends Component{
 
         return(
             <div>
-            <h1>kfhkdjhgkjdh</h1>
+            <h1>Welcome to My React Boilerplate</h1>
             </div>
         );
     }
